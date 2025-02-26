@@ -65,8 +65,5 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 4.  Push your changes to your fork: `git push origin feature-name`.
 5.  Create a pull request to the `main` branch of the original repository.
 
-### Issues
-
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/codescalper/mern-todo/issues) on the repository.
-
-docker run -d -p 8000:80 -e MY_APP_API_URL="http://52.66.241.93:3000" -e BACKEND_URL="52.66.241.93:3000" todo-client
+BACKEND_URL
+MY_APP_API_URL
